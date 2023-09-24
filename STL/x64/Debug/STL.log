@@ -1,5 +1,0 @@
-﻿  Source.cpp
-D:\gtest\gtest\STL\Source.cpp(19,12): warning C4244: return: преобразование "int" в "float", возможна потеря данных
-D:\gtest\gtest\STL\Source.cpp(54,18): warning C4804: <: небезопасное использование типа "bool" в операции
-D:\gtest\gtest\STL\Source.cpp(21): warning C4715: division: значение возвращается не при всех путях выполнения
-  STL.vcxproj -> D:\gtest\gtest\x64\Debug\STL.lib
