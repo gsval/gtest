@@ -1,3 +1,0 @@
-﻿  test_STL.cpp
-D:\gtest\gtest\tests\test_STL.cpp(21,2): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "EXPECT_NE"
-  tests.vcxproj -> D:\gtest\gtest\x64\Debug\tests.exe
